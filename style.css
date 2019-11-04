@@ -1,0 +1,12 @@
+body{
+background: green;
+}
+.head{
+    background: red;
+    width:1015px;
+    height:50px;
+    display:flex;
+    flex-flow: column nowrap;
+    justify-content: space-around;
+
+}
